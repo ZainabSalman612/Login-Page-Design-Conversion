@@ -1,5 +1,4 @@
 # Login-Page-Design-Conversion
-# Login Form Project
 
 This project involves converting a Figma design into a functional login form as a part of an internship. The login form allows users to enter their email address and password to log in. The project is built using HTML and CSS, and it focuses on creating a responsive and visually appealing user interface.
 
